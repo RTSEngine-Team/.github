@@ -1,6 +1,6 @@
 # Real-Time Strategy Simulation Engine (RTSEngine)
 
-A proprietary real-time strategy (RTS) engine built on a custom Entity–Component–System (ECS) architecture.  
+A real-time strategy (RTS) engine built on a custom Entity–Component–System (ECS) architecture.  
 Designed for large-scale unit simulation, deterministic updates, and modern rendering pipelines.
 
 ![screenshot](https://github.com/user-attachments/assets/3afd2a5b-6d8b-4f9f-8150-422be61ec1e2)
@@ -48,8 +48,10 @@ Examples above demonstrate:
 ## Current Focus
 
 - Extending formation & combat mechanics  
-- Experimenting with advanced pathfinding approaches (flow fields, PBD collisions)  
-- Expanding rendering/animation pipeline  
+- Experimenting with advanced pathfinding approaches (flow fields, PBD collisions)
+- Improve ECS architecture
+- Expanding rendering/animation pipeline
+- Simple networking demo
 
 ---
 
