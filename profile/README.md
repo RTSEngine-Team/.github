@@ -63,6 +63,7 @@ No part of this software may be used, copied, or distributed without explicit pe
 For collaboration inquiries, please [contact us](mailto:harrybridgen@gmail.com).
 
 All rights reserved © 2025 RTSEngine.  
+
 ---
 
 ## Acknowledgments
