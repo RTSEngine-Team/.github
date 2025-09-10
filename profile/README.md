@@ -1,4 +1,4 @@
-# Real-Time Strategy Simulation Engine
+# Real-Time Strategy Simulation Engine (RTSEngine)
 
 A proprietary real-time strategy (RTS) engine built on a custom Entity–Component–System (ECS) architecture.  
 Designed for large-scale unit simulation, deterministic updates, and modern rendering pipelines.
