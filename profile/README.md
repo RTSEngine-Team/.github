@@ -4,8 +4,6 @@ A real-time strategy (RTS) engine built on a custom Entity–Component–System 
 Designed for large-scale unit simulation, deterministic updates, and modern rendering pipelines.
 
 ![screenshot](https://github.com/user-attachments/assets/3afd2a5b-6d8b-4f9f-8150-422be61ec1e2)
-![screenshot](https://github.com/user-attachments/assets/3e2aa321-853f-4884-b307-4c6b7380aea0)
-![screenshot](https://github.com/user-attachments/assets/d426ac3a-af06-47c4-a4d7-42adc23f37c2)
 
 ---
 
