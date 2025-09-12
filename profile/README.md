@@ -3,6 +3,17 @@
 A real-time strategy (RTS) engine built on a custom Entity–Component–System (ECS) architecture.  
 Designed for large-scale unit simulation, deterministic updates, and modern rendering pipelines.
 
+---
+
+## HELP WANTED!
+We are looking for the following roles:
+- 🎨 Sprite Artist (16x16 / 32x32 retro assets)
+- 💻 Graphics Programmer (render pipeline, instancing, shaders)
+- 🎮 Systems Programmer (ECS gameplay systems)
+- 🌐 Network Programmer (deterministic lockstep)
+
+---
+
 ### Watch some footage here [(YouTube)](https://youtu.be/l-pexSYvleE?si=tXjArMBU887Saiqw)
 ![Capture](https://github.com/user-attachments/assets/c5b7057b-5918-494f-b3f3-87cb6583c802)
 ![capture2](https://github.com/user-attachments/assets/a525bf71-8a62-46c7-84f3-6d753ff57cdd)
@@ -29,23 +40,18 @@ Core goals:
 | ------------- | ---------------------------------------------- |
 | Language      | C# (.NET)                                      |
 | Framework     | MonoGame                                       |
-| Architecture  | Custom ECS (Structure-of-Arrays)               |
+| Architecture  | Custom ECS                                     |
 | Rendering     | GPU instancing + 2D overlays                   |
-| Parallelism   | TPL-based, lock-free hot paths                 |
-| Spatial Index | Grid bins with prefix sums                     |
-| Determinism   | Fixed timestep simulation                      |
 
 ---
+## Team
 
-## Screenshots
-
-Examples above demonstrate:  
-- Large-scale unit formations  
-- Collision resolution at 50k+ entities  
-- GPU instanced rendering with selection overlays  
+| Name/Tag      | Technology                                     |
+| ------------- | ---------------------------------------------- |
+| Harry         | Lead Developer, rendering, ECS systems         |
+| mtraindog     | ECS architecture, design and optimization      |
 
 ---
-
 ## Current Focus
 
 - Extending formation & combat mechanics  
@@ -53,6 +59,7 @@ Examples above demonstrate:
 - Improve ECS architecture
 - Expanding rendering/animation pipeline
 - Simple networking demo
+- Demo of RTS game loop with massive battles
 
 ---
 
