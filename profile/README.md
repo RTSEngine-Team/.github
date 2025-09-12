@@ -80,8 +80,6 @@ This readme is provided for **demonstration and informational purposes only**.
 
 No part of this software may be used, copied, or distributed without explicit permission.  
 
-For collaboration inquiries, please [contact us](mailto:harrybridgen@gmail.com).
-
 All rights reserved © 2025 RTSEngine.  
 
 ---
