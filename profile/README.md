@@ -57,7 +57,7 @@ Core goals:
 ---
 ## Team
 
-| Name/Tag      | Technology                                     |
+| Name/Tag      | Role/Technology                                |
 | ------------- | ---------------------------------------------- |
 | Harry         | Lead Developer, rendering, ECS systems         |
 | mtraindog     | ECS architecture, design and optimization      |
