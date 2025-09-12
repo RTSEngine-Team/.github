@@ -11,6 +11,7 @@ We are looking for the following roles:
 - 💻 Graphics Programmer (render pipeline, instancing, shaders)
 - 🎮 Systems Programmer (ECS gameplay systems)
 - 🌐 Network Programmer (deterministic lockstep)
+Please [email us](mailto:harrybridgen@gmail.com) or [message on discord](https://discord.com/users/172272486430408704).
 
 ---
 
