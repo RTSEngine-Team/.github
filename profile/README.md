@@ -3,7 +3,7 @@
 A real-time strategy (RTS) engine built on a custom Entity–Component–System (ECS) architecture.  
 Designed for large-scale unit simulation, deterministic updates, and modern rendering pipelines.
 
-### Watch some footage here [(YouTube)](https://youtu.be/DCQR5XzoRYc?si=vObqql8tg4NLCVM7)
+### Watch some footage here [(YouTube)](https://youtu.be/l-pexSYvleE?si=tXjArMBU887Saiqw)
 ![Capture](https://github.com/user-attachments/assets/c5b7057b-5918-494f-b3f3-87cb6583c802)
 ![capture2](https://github.com/user-attachments/assets/a525bf71-8a62-46c7-84f3-6d753ff57cdd)
 ![capture3](https://github.com/user-attachments/assets/05cd0861-aa51-4fcd-a54d-72040bfa5e47)
