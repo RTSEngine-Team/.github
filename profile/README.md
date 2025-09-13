@@ -12,7 +12,7 @@ Designed for large-scale unit simulation, deterministic updates, and modern rend
 - 🎮 Systems Programmer (ECS gameplay systems)
 - 🌐 Network Programmer (deterministic lockstep)
 
-If you are interested, please [email us](mailto:harrybridgen@gmail.com) or [message on discord](https://discord.com/users/172272486430408704).
+If you are interested, please join [our discord](https://discord.gg/GyZ6qJNGtS).
 
 ### Note
 This is currently an unpaid project.
