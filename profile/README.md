@@ -62,6 +62,7 @@ Core goals:
 | ------------- | ---------------------------------------------- |
 | Harry         | Lead Developer, rendering, ECS systems         |
 | mtraindog     | ECS architecture, design and optimization      |
+| Jon-BV        | ECS gameplay systems                           |
 
 ---
 ## Current Focus
