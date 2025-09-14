@@ -56,15 +56,7 @@ Core goals:
 | Rendering     | GPU instancing + 2D overlays                   |
 
 ---
-## Team
 
-| Name/Tag      | Role/Technology                                |
-| ------------- | ---------------------------------------------- |
-| Harry         | Lead Developer, rendering, ECS systems         |
-| mtraindog     | ECS architecture, design and optimization      |
-| Jon-BV        | ECS gameplay systems                           |
-
----
 ## Current Focus
 
 - Extending formation & combat mechanics  
