@@ -5,20 +5,6 @@ Designed for large-scale unit simulation, deterministic updates, and modern rend
 
 ---
 
-## HELP WANTED!
-### We are looking for the following roles:
-- 🎨 Sprite Artist (16x16 / 32x32 retro assets)
-- 💻 Graphics Programmer (render pipeline, instancing, shaders)
-- 🎮 Systems Programmer (ECS gameplay systems)
-- 🌐 Network Programmer (deterministic lockstep)
-
-If you are interested, please join [our discord](https://discord.gg/GyZ6qJNGtS).
-
-### Note
-This is currently an unpaid project.
-However, the long-term vision is to build and release commercial RTS games powered by RTSEngine. 
-Contributors who join now will not only help shape a groundbreaking proprietary RTS engine but may also have opportunities to share in future success once games are published.
-
 ### Why RTSEngine is unique:
 - Capable of simulating 40k–60k active units with collisions and combat at 60 FPS.
 - Built for deterministic large-scale RTS battles.
